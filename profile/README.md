@@ -12,7 +12,6 @@
 - Pitivi 
 - Obs-Studio
 - Geany
-- GCC, JDK11, R-Base, PHP
 
 
 **You can download the latest .iso from SourceForge**
