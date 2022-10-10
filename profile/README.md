@@ -12,7 +12,7 @@
 - Pitivi 
 - Obs-Studio
 - Geany
-
+- And many compilers for programming languages
 
 **You can download the latest .iso from SourceForge**
 
