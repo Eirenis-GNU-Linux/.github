@@ -2,7 +2,7 @@
 
 
 #### Features
-- Uses up to 400MB of RAM
+- 400MB of RAM is required to start
 - Many programs to create
 - Completely free and opensource
 
