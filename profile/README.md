@@ -2,11 +2,12 @@
 
 
 #### Features
-- Uses up to 300MB of RAM
+- Uses up to 400MB of RAM
 - Many programs to create
 - Completely free and opensource
 
 #### List of included software
+- Firefox
 - Gimp, Inkscape, Blender
 - Audacity
 - Pitivi 
