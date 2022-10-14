@@ -15,6 +15,8 @@
 - Geany
 - And many compilers for programming languages
 
+I publish news about the distribution and its development in the Telegram [!channel](https://t.me/VodograyOS)
+
 **You can download the latest .iso from SourceForge**
 
 [![Download VodograyOS-ISO](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/vodograyos-iso/files/latest/download)
