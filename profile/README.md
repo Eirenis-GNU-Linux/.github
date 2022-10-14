@@ -16,7 +16,7 @@
 - And many compilers for programming languages
 
 
- **I publish news about the distribution and its development in the Telegram [channel](https://t.me/VodograyOS)**
+ I publish news about the distribution and its development in the Telegram [channel](https://t.me/VodograyOS)
 
 
 **You can download the latest .iso from SourceForge**
