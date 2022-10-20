@@ -3,6 +3,7 @@
 #### Features
 - The desktop is KDE Plasma
 - Flatpak is preconfigured and apps will be installed from it
+- Only 600mb of RAM is required to run
 - Included many programs to create
 - Completely free and opensource
 
