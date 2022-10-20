@@ -1,19 +1,24 @@
 **VodograyOS is a fast operating system oriented at creative people, it includes more software for creators and their tasks**
 
-
 #### Features
-- 400MB of RAM is required to start
-- Many programs to create
+- The desktop is KDE Plasma
+- Flatpak is preconfigured and apps will be installed from it
+- Included many programs to create
 - Completely free and opensource
 
 #### List of included software
 - Firefox
-- Gimp, Inkscape, Blender
-- Audacity
-- Pitivi 
+- gThumb
+- VLC
+- Lollypop
+- Flameshot
+- LibreOffice
+- Gimp, Inkscape, Blender, Krita
+- Audacity, LMMS
+- Kdenlive
 - Obs-Studio
-- Geany
-- And many compilers for programming languages
+- Gcolor3
+- VSCodium
 
 
  I publish news about the distribution and its development in the Telegram [channel](https://t.me/VodograyOS)
