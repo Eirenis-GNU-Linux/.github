@@ -1,4 +1,4 @@
-**VodograyOS is a fast operating system oriented at creative people, it includes more software for creators and their tasks**
+**Vodogray is a fast operating system oriented at creative people, it includes more software for creators and their tasks**
 
 #### Features
 - The desktop is KDE Plasma
