@@ -10,17 +10,19 @@
 
 #### List of included software
 - Firefox
-- gThumb
-- VLC
-- Lollypop
-- Flameshot
-- LibreOffice
-- Gimp, Inkscape, Blender, Krita
-- Audacity, LMMS
-- Kdenlive
-- Obs-Studio
+- Gimp
+- Inkscape
+- Blender
+- Krita
 - Gcolor3
-- VSCodium
+- Audacity
+- Lmms
+- Kdenlive
+- OBS Studio
+- Vscodium
+- Micro
+- Vim
+- LibreOffice
 
 
  I publish news about the distribution and its development in the Telegram [channel](https://t.me/VodograyNews)
