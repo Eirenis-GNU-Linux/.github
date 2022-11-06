@@ -1,7 +1,8 @@
 **Vodogray is a fast operating system oriented at creative people, it includes more software for creators and their tasks**
 
 #### Features
-- The desktop is KDE Plasma
+- Xfce4 desktop
+- 6.0 Liquorix kernel
 - Flatpak is preconfigured and apps will be installed from it
 - Only 600mb of RAM is required to run
 - Included many programs to create
