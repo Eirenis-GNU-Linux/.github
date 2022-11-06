@@ -1,5 +1,7 @@
 **Vodogray is a fast operating system oriented at creative people, it includes more software for creators and their tasks**
 
+![Alt text](https://a.fsdn.com/con/app/proj/vodogray-linux/screenshots/Desktop.png/max/max/1 "Desktop")
+
 #### Features
 - Xfce4 desktop
 - 6.0 Liquorix kernel
@@ -23,9 +25,6 @@
 - Micro
 - Vim
 - LibreOffice
-
-
-![Alt text](https://a.fsdn.com/con/app/proj/vodogray-linux/screenshots/Desktop.png/max/max/1 "Desktop")
 
 
  I publish news about the distribution and its development in the Telegram [channel](https://t.me/VodograyNews)
