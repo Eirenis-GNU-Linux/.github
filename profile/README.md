@@ -1,6 +1,5 @@
 **Vodogray is a fast operating system oriented at creative people, it includes more software for creators and their tasks**
 
-![Alt text](https://a.fsdn.com/con/app/proj/vodogray-linux/screenshots/Desktop.png/max/max/1 "Desktop")
 
 #### Features
 - Xfce4 desktop
